@@ -1,0 +1,17 @@
+[
+{
+  "directory": "D:/AAA_Store/Desktop/sbdongxistudyalittlething/games101/assignment/Assignment1/code/build",
+  "command": "C:\\complier\\mingw64\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\main.cpp.obj -c D:\\AAA_Store\\Desktop\\sbdongxistudyalittlething\\games101\\assignment\\Assignment1\\code\\main.cpp",
+  "file": "D:/AAA_Store/Desktop/sbdongxistudyalittlething/games101/assignment/Assignment1/code/main.cpp"
+},
+{
+  "directory": "D:/AAA_Store/Desktop/sbdongxistudyalittlething/games101/assignment/Assignment1/code/build",
+  "command": "C:\\complier\\mingw64\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\rasterizer.cpp.obj -c D:\\AAA_Store\\Desktop\\sbdongxistudyalittlething\\games101\\assignment\\Assignment1\\code\\rasterizer.cpp",
+  "file": "D:/AAA_Store/Desktop/sbdongxistudyalittlething/games101/assignment/Assignment1/code/rasterizer.cpp"
+},
+{
+  "directory": "D:/AAA_Store/Desktop/sbdongxistudyalittlething/games101/assignment/Assignment1/code/build",
+  "command": "C:\\complier\\mingw64\\bin\\g++.exe  @CMakeFiles/Rasterizer.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Rasterizer.dir\\Triangle.cpp.obj -c D:\\AAA_Store\\Desktop\\sbdongxistudyalittlething\\games101\\assignment\\Assignment1\\code\\Triangle.cpp",
+  "file": "D:/AAA_Store/Desktop/sbdongxistudyalittlething/games101/assignment/Assignment1/code/Triangle.cpp"
+}
+]
